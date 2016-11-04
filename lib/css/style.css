@@ -1,0 +1,25 @@
+body{
+  color: #4700b3;
+}
+
+h1{
+  font-style: ;
+  font-size: 80px;
+  text-align: center;
+}
+p{
+  font-style: oblique;
+  font-size: 60px;
+  text-align: center;
+}
+
+.jumbotron {
+  background: url(http://tinyurl.com/gmt4o4o) no-repeat center center;
+  background-size: cover;
+  text-align: center;
+  height: 460px;
+}
+.i{
+  font-weight: 300;
+  
+}
